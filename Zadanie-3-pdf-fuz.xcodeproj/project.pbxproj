@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B704B7E725717F3C00E314EA /* Zadanie-3-pdf-fuz */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Zadanie-3-pdf-fuz"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B704B7EA25717F3C00E314EA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B706ABD22574569A00213A06 /* emoji.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = emoji.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B704B7EA25717F3C00E314EA /* main.cpp */,
+				B706ABD22574569A00213A06 /* emoji.h */,
 			);
 			path = "Zadanie-3-pdf-fuz";
 			sourceTree = "<group>";
